@@ -66,7 +66,7 @@ Add a training record
 **POST**`/body/train`  
 
 Request:  
-Header:`?`  
+Header:`application/x-www-form-urlencoded`(default)  
 Body:  
 ```
 {
