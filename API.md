@@ -71,7 +71,7 @@ Body:
 ```
 {
 	"date": "2015-12-03",
-	[
+	"train":[
 		{
 			"exercise": "硬拉",
 			"catalog": "背部",
